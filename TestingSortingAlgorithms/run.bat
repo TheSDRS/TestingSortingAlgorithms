@@ -1,1 +1,1 @@
-python TestingSortingAlgorithms.py
+python3 TestingSortingAlgorithms.py
