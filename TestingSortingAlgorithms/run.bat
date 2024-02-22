@@ -1,1 +1,1 @@
-python -m TestingSortingAlgorithms.py
+python TestingSortingAlgorithms.py
